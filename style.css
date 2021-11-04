@@ -73,7 +73,7 @@ a{
 /* ======================================================== */
 
 .implantes{
-    height: 50vh;
+    height: 52vh;
     background-color: rgb(255, 255, 255);
     display: flex;
     justify-content: center;
@@ -123,13 +123,13 @@ a{
 }
 .implante button{
     border-style: none;
-    background-color:;
-    font-size: large;
+    
+    font-size: 1rem;
 }
 
 /* ======================================================= */
 .proteses{
-    height: 50vh;
+    height: 52vh;
     background-color: rgb(22, 19, 61);
     display: flex;
     justify-content: center;
@@ -172,5 +172,5 @@ a{
     border-style: none;
     background-color:#16133D ;
     color: white;
-    font-size: large;
+    font-size: 1rem;
 }
